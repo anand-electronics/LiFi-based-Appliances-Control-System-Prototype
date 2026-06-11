@@ -89,7 +89,7 @@ Designed for **EMI-sensitive industrial environments** — such as automation pl
 ```
 Arduino Pin 2  → Push Button 1 (Load 1 toggle)
 Arduino Pin 3  → Push Button 2 (Load 2 toggle)
-Arduino Pin 9  → IRFZ44N Gate (MOSFET)
+Arduino Pin 4  → IRFZ44N Gate (MOSFET)
 IRFZ44N Drain  → LED Cathode (-)
 LED Anode (+)  → 12V via current-limiting resistor
 GND            → Common ground
